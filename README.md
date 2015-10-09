@@ -1,6 +1,8 @@
 # datamaps-custom-marker
 A datamaps plugin for custom map markers.
 
+![datamaps-custom-markers](https://cloud.githubusercontent.com/assets/124599/10392845/ea6d5048-6e9b-11e5-9d2d-c92b3ddb8c5a.png)
+
 ## Installation
 
 Include this file:
